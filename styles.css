@@ -1,6 +1,18 @@
 body{
-    background: lime;
-    font-family:bArial, Helvetica, sans-serif;
+    background: lightgreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.assignment{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background: lightblue;
+}
+
+.assignment img{
+    width: 250px;
+    padding: 10px;
 }
 
 h1{
